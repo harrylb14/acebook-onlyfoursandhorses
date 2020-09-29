@@ -12,23 +12,23 @@ Visit acebook [here](http://intense-scrubland-58731.herokuapp.com)
 
 ## Sign Up:
 
-<img src="public/screenshots/Sign Up.png" width="250px" height="250px">
+<img src="public/screenshots/Sign Up.png" >
 
 ## View your wall!
 
-<img src="public/screenshots/View wall.png" width="250px" height="250px">
+<img src="public/screenshots/View wall.png" >
 
 ## View your friends' posts!
 
-<img src="public/screenshots/View Posts.png" width="250px" height="250px">
+<img src="public/screenshots/View Posts.png" >
 
 ## Visit your friends' walls!
 
-<img src="public/screenshots/Visit Walls.png" width="250px" height="250px">
+<img src="public/screenshots/Visit Walls.png" >
 
 ## Edit and delete your account!
 
-<img src="public/screenshots/Edit Account.png" width="250px" height="250px">
+<img src="public/screenshots/Edit Account.png" >
 
 ## To use locally:
 
