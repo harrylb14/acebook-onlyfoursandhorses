@@ -4,13 +4,15 @@
 
 <br>
 
-## Project on heroku:
+### A facebook clone written using Ruby on Rails. Sign up, find your friends and get posting! 
 
-http://intense-scrubland-58731.herokuapp.com
+Visit acebook [here](http://intense-scrubland-58731.herokuapp.com)
 
 <br>
 
-## Instructions to use locally:
+## Screenshots: 
+
+## To use locally:
 
 First, clone this repository. Then:
 
