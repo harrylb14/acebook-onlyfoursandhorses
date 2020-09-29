@@ -6,7 +6,7 @@
 
 ### A facebook clone written using Ruby on Rails. Sign up, find your friends and get posting! 
 
-Visit acebook [here](http://intense-scrubland-58731.herokuapp.com)
+#### Visit acebook [here](http://intense-scrubland-58731.herokuapp.com).
 
 <br>
 
