@@ -10,11 +10,29 @@ Visit acebook [here](http://intense-scrubland-58731.herokuapp.com)
 
 <br>
 
-## Screenshots: 
+## Sign Up:
+
+<img src="public/screenshots/Sign Up.png" width="250px" height="250px">
+
+## View your wall!
+
+<img src="public/screenshots/View wall.png" width="250px" height="250px">
+
+## View your friends' posts!
+
+<img src="public/screenshots/View Posts.png" width="250px" height="250px">
+
+## Visit your friends' walls!
+
+<img src="public/screenshots/Visit Walls.png" width="250px" height="250px">
+
+## Edit and delete your account!
+
+<img src="public/screenshots/Edit Account.png" width="250px" height="250px">
 
 ## To use locally:
 
-First, clone this repository. Then:
+Clone this repository. Then:
 
 ```bash
 > bundle install
