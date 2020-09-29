@@ -4,14 +4,6 @@
 
 <br>
 
-## Team
-
-<br>
-
-<img width="400" alt="Screenshot 2020-09-03 at 23 05 27" src="https://user-images.githubusercontent.com/55639318/92249546-3183aa80-eec2-11ea-901e-516a14daa4d5.png">
-
-<br>
-
 ## Project on heroku:
 
 http://intense-scrubland-58731.herokuapp.com
